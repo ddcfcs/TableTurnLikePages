@@ -100,6 +100,7 @@
 				0468521219AF2362004FE47E /* TableTurnLikePagesTests */,
 				046851EC19AF2362004FE47E /* Frameworks */,
 				046851EB19AF2362004FE47E /* Products */,
+				0468523619AF276D004FE47E /* ImageSources */,
 			);
 			sourceTree = "<group>";
 		};
@@ -126,7 +127,6 @@
 		046851F319AF2362004FE47E /* TableTurnLikePages */ = {
 			isa = PBXGroup;
 			children = (
-				0468523619AF276D004FE47E /* ImageSources */,
 				046851FC19AF2362004FE47E /* AppDelegate.h */,
 				046851FD19AF2362004FE47E /* AppDelegate.m */,
 				046851FF19AF2362004FE47E /* Main.storyboard */,
@@ -180,6 +180,7 @@
 				0468523119AF253B004FE47E /* icon_QPerson2.png */,
 			);
 			name = ImageSources;
+			path = TableTurnLikePages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
