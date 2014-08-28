@@ -27,6 +27,7 @@
 		0468523319AF253B004FE47E /* icon_QPerson0.png in Resources */ = {isa = PBXBuildFile; fileRef = 0468522F19AF253B004FE47E /* icon_QPerson0.png */; };
 		0468523419AF253B004FE47E /* icon_QPerson1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0468523019AF253B004FE47E /* icon_QPerson1.png */; };
 		0468523519AF253B004FE47E /* icon_QPerson2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0468523119AF253B004FE47E /* icon_QPerson2.png */; };
+		0488A8B119AF2A33002F0FD5 /* appearance.png in Resources */ = {isa = PBXBuildFile; fileRef = 0488A8B019AF2A33002F0FD5 /* appearance.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		0468522F19AF253B004FE47E /* icon_QPerson0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_QPerson0.png; sourceTree = "<group>"; };
 		0468523019AF253B004FE47E /* icon_QPerson1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_QPerson1.png; sourceTree = "<group>"; };
 		0468523119AF253B004FE47E /* icon_QPerson2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_QPerson2.png; sourceTree = "<group>"; };
+		0488A8B019AF2A33002F0FD5 /* appearance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appearance.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 		046851F319AF2362004FE47E /* TableTurnLikePages */ = {
 			isa = PBXGroup;
 			children = (
+				0488A8B019AF2A33002F0FD5 /* appearance.png */,
 				046851FC19AF2362004FE47E /* AppDelegate.h */,
 				046851FD19AF2362004FE47E /* AppDelegate.m */,
 				046851FF19AF2362004FE47E /* Main.storyboard */,
@@ -262,6 +265,7 @@
 				0468523519AF253B004FE47E /* icon_QPerson2.png in Resources */,
 				0468523219AF253B004FE47E /* icon_QPerson3.png in Resources */,
 				0468520619AF2362004FE47E /* Images.xcassets in Resources */,
+				0488A8B119AF2A33002F0FD5 /* appearance.png in Resources */,
 				046851F819AF2362004FE47E /* InfoPlist.strings in Resources */,
 				0468523419AF253B004FE47E /* icon_QPerson1.png in Resources */,
 				0468520119AF2362004FE47E /* Main.storyboard in Resources */,
