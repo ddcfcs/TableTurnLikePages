@@ -126,10 +126,7 @@
 		046851F319AF2362004FE47E /* TableTurnLikePages */ = {
 			isa = PBXGroup;
 			children = (
-				0468522E19AF253B004FE47E /* icon_QPerson3.png */,
-				0468522F19AF253B004FE47E /* icon_QPerson0.png */,
-				0468523019AF253B004FE47E /* icon_QPerson1.png */,
-				0468523119AF253B004FE47E /* icon_QPerson2.png */,
+				0468523619AF276D004FE47E /* ImageSources */,
 				046851FC19AF2362004FE47E /* AppDelegate.h */,
 				046851FD19AF2362004FE47E /* AppDelegate.m */,
 				046851FF19AF2362004FE47E /* Main.storyboard */,
@@ -172,6 +169,17 @@
 				0468521519AF2362004FE47E /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0468523619AF276D004FE47E /* ImageSources */ = {
+			isa = PBXGroup;
+			children = (
+				0468522E19AF253B004FE47E /* icon_QPerson3.png */,
+				0468522F19AF253B004FE47E /* icon_QPerson0.png */,
+				0468523019AF253B004FE47E /* icon_QPerson1.png */,
+				0468523119AF253B004FE47E /* icon_QPerson2.png */,
+			);
+			name = ImageSources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -484,6 +492,7 @@
 				0468521E19AF2362004FE47E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0468521F19AF2362004FE47E /* Build configuration list for PBXNativeTarget "TableTurnLikePagesTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +501,7 @@
 				0468522119AF2362004FE47E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
