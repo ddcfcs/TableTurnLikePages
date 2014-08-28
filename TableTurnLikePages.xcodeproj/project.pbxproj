@@ -14,13 +14,19 @@
 		046851FA19AF2362004FE47E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 046851F919AF2362004FE47E /* main.m */; };
 		046851FE19AF2362004FE47E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 046851FD19AF2362004FE47E /* AppDelegate.m */; };
 		0468520119AF2362004FE47E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 046851FF19AF2362004FE47E /* Main.storyboard */; };
-		0468520419AF2362004FE47E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0468520319AF2362004FE47E /* ViewController.m */; };
 		0468520619AF2362004FE47E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0468520519AF2362004FE47E /* Images.xcassets */; };
 		0468520D19AF2362004FE47E /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0468520C19AF2362004FE47E /* XCTest.framework */; };
 		0468520E19AF2362004FE47E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 046851ED19AF2362004FE47E /* Foundation.framework */; };
 		0468520F19AF2362004FE47E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 046851F119AF2362004FE47E /* UIKit.framework */; };
 		0468521719AF2362004FE47E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0468521519AF2362004FE47E /* InfoPlist.strings */; };
 		0468521919AF2362004FE47E /* TableTurnLikePagesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0468521819AF2362004FE47E /* TableTurnLikePagesTests.m */; };
+		0468522919AF238E004FE47E /* BookControllerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0468522519AF238E004FE47E /* BookControllerViewController.m */; };
+		0468522A19AF238E004FE47E /* DDTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0468522719AF238E004FE47E /* DDTableViewController.m */; };
+		0468522D19AF2408004FE47E /* TablePageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0468522C19AF2408004FE47E /* TablePageViewController.m */; };
+		0468523219AF253B004FE47E /* icon_QPerson3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0468522E19AF253B004FE47E /* icon_QPerson3.png */; };
+		0468523319AF253B004FE47E /* icon_QPerson0.png in Resources */ = {isa = PBXBuildFile; fileRef = 0468522F19AF253B004FE47E /* icon_QPerson0.png */; };
+		0468523419AF253B004FE47E /* icon_QPerson1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0468523019AF253B004FE47E /* icon_QPerson1.png */; };
+		0468523519AF253B004FE47E /* icon_QPerson2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0468523119AF253B004FE47E /* icon_QPerson2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,14 +51,22 @@
 		046851FC19AF2362004FE47E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		046851FD19AF2362004FE47E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		0468520019AF2362004FE47E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		0468520219AF2362004FE47E /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		0468520319AF2362004FE47E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		0468520519AF2362004FE47E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		0468520B19AF2362004FE47E /* TableTurnLikePagesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableTurnLikePagesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0468520C19AF2362004FE47E /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		0468521419AF2362004FE47E /* TableTurnLikePagesTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TableTurnLikePagesTests-Info.plist"; sourceTree = "<group>"; };
 		0468521619AF2362004FE47E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0468521819AF2362004FE47E /* TableTurnLikePagesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableTurnLikePagesTests.m; sourceTree = "<group>"; };
+		0468522419AF238E004FE47E /* BookControllerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BookControllerViewController.h; sourceTree = "<group>"; };
+		0468522519AF238E004FE47E /* BookControllerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BookControllerViewController.m; sourceTree = "<group>"; };
+		0468522619AF238E004FE47E /* DDTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDTableViewController.h; sourceTree = "<group>"; };
+		0468522719AF238E004FE47E /* DDTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDTableViewController.m; sourceTree = "<group>"; };
+		0468522B19AF2408004FE47E /* TablePageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TablePageViewController.h; sourceTree = "<group>"; };
+		0468522C19AF2408004FE47E /* TablePageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TablePageViewController.m; sourceTree = "<group>"; };
+		0468522E19AF253B004FE47E /* icon_QPerson3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_QPerson3.png; sourceTree = "<group>"; };
+		0468522F19AF253B004FE47E /* icon_QPerson0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_QPerson0.png; sourceTree = "<group>"; };
+		0468523019AF253B004FE47E /* icon_QPerson1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_QPerson1.png; sourceTree = "<group>"; };
+		0468523119AF253B004FE47E /* icon_QPerson2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_QPerson2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,11 +126,19 @@
 		046851F319AF2362004FE47E /* TableTurnLikePages */ = {
 			isa = PBXGroup;
 			children = (
+				0468522E19AF253B004FE47E /* icon_QPerson3.png */,
+				0468522F19AF253B004FE47E /* icon_QPerson0.png */,
+				0468523019AF253B004FE47E /* icon_QPerson1.png */,
+				0468523119AF253B004FE47E /* icon_QPerson2.png */,
 				046851FC19AF2362004FE47E /* AppDelegate.h */,
 				046851FD19AF2362004FE47E /* AppDelegate.m */,
 				046851FF19AF2362004FE47E /* Main.storyboard */,
-				0468520219AF2362004FE47E /* ViewController.h */,
-				0468520319AF2362004FE47E /* ViewController.m */,
+				0468522B19AF2408004FE47E /* TablePageViewController.h */,
+				0468522C19AF2408004FE47E /* TablePageViewController.m */,
+				0468522419AF238E004FE47E /* BookControllerViewController.h */,
+				0468522519AF238E004FE47E /* BookControllerViewController.m */,
+				0468522619AF238E004FE47E /* DDTableViewController.h */,
+				0468522719AF238E004FE47E /* DDTableViewController.m */,
 				0468520519AF2362004FE47E /* Images.xcassets */,
 				046851F419AF2362004FE47E /* Supporting Files */,
 			);
@@ -228,9 +250,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0468523519AF253B004FE47E /* icon_QPerson2.png in Resources */,
+				0468523219AF253B004FE47E /* icon_QPerson3.png in Resources */,
 				0468520619AF2362004FE47E /* Images.xcassets in Resources */,
 				046851F819AF2362004FE47E /* InfoPlist.strings in Resources */,
+				0468523419AF253B004FE47E /* icon_QPerson1.png in Resources */,
 				0468520119AF2362004FE47E /* Main.storyboard in Resources */,
+				0468523319AF253B004FE47E /* icon_QPerson0.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,9 +275,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0468520419AF2362004FE47E /* ViewController.m in Sources */,
+				0468522D19AF2408004FE47E /* TablePageViewController.m in Sources */,
 				046851FE19AF2362004FE47E /* AppDelegate.m in Sources */,
 				046851FA19AF2362004FE47E /* main.m in Sources */,
+				0468522A19AF238E004FE47E /* DDTableViewController.m in Sources */,
+				0468522919AF238E004FE47E /* BookControllerViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TablePageViewController.h
 //  TableTurnLikePages
 //
 //  Created by Cruise on 14-8-28.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TablePageViewController : UIViewController
+@property (nonatomic,assign) int currentPage;
 @end
