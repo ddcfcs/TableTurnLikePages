@@ -24,7 +24,7 @@
 }
 
 - (void)loadDataSource {
-    self.dataSource = (NSMutableArray *)@[@"A twitter like navigation bar, page viewer.", @"A twitter like navigation bar, page viewer.", @"A twitter like navigation bar, page viewer.", @"A twitter like navigation bar, page viewer.", @"A twitter like navigation bar, page viewer.", @"A twitter like navigation bar, page viewer.", @"A twitter like navigation bar, page viewer.", @"A twitter like navigation bar, page viewer.", @"A twitter like navigation bar, page viewer.", @"A twitter like navigation bar, page viewer.", @"A twitter like navigation bar, page viewer.", @"A twitter like navigation bar, page viewer.", @"A twitter like navigation bar, page viewer.", @"A twitter like navigation bar, page viewer."];
+    self.dataSource = (NSMutableArray *)@[@"A bosom friend afar brings a distant land near", @"A bosom friend afar brings a distant land near", @"A bosom friend afar brings a distant land near", @"A bosom friend afar brings a distant land near", @"A bosom friend afar brings a distant land near", @"A bosom friend afar brings a distant land near", @"A bosom friend afar brings a distant land near", @"A bosom friend afar brings a distant land near", @"A bosom friend afar brings a distant land near", @"A bosom friend afar brings a distant land near", @"A bosom friend afar brings a distant land near", @"A bosom friend afar brings a distant land near",@"A bosom friend afar brings a distant land near",@"A bosom friend afar brings a distant land near",];
 }
 
 - (void)viewWillAppear:(BOOL)animated {
